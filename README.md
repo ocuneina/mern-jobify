@@ -22,11 +22,11 @@ npm run dev
 
 APP is running on http://localhost:5173/
 
-![Landing Page](landing.png)
+![Landing Page](images/landing.png)
 
 First you have to register in the application by filling the form. 
 
-![registration](register.png)
+![registration](images/register.png)
 
 The application supports three user roles, each with distinct privileges:
 - Test: This role is designed for testing purposes and provides limited access to system functionality.
@@ -35,21 +35,21 @@ The application supports three user roles, each with distinct privileges:
 
 As a user you can add jobs
 
-![add job](addJob.png)
+![add job](images/addJob.png)
 
 search by position, company name, status or type, or display all
-![all jobs](allJobs.png)
+![all jobs](images/allJobs.png)
 
 as well as edit or delete the job.
 
 Statistics page shows jobs applications by status and monthly for last 6 months.
 
-![stats](stats.png)
+![stats](images/stats.png)
 
 And as an admin, there is statistics for users and number of jobs
 
-![admin](admin.png)
+![admin](images/admin.png)
 
 The user is able to edit his profile: change name and email, and add a picture or avatar
-![profile](profile.png)
+![profile](images/profile.png)
 
